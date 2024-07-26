@@ -2,5 +2,4 @@
 ten
 twenty
 thirty
-
-ten
+fourty
